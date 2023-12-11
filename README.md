@@ -2,13 +2,11 @@
 
 Hello! Welcome to my first Front-end project. It consists in an portfolio created during the Alura's degree *From scratch: HTML and CSS for Web Projects*.
 
-To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.app/).
+To see the final result, click [here](https://aluramidi-jade-sigma.vercel.app/).
 
 ## Used tools:
 
-* HTML
-* CSS
-* Flexbox
+* JavaScript
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
